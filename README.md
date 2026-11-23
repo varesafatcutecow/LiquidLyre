@@ -32,9 +32,16 @@
 > **不读取、不修改任何游戏内存或数据，不破解、不绕过任何游戏保护机制**。
 > 请将演奏音量调至合适大小，遵守所在游戏的社区规范。因使用本项目产生的任何后果由使用者自行承担。
 >
+> 本项目为**非官方粉丝作品**，与米哈游（miHoYo / HoYoverse）无关。游戏角色形象、音乐等相关权利归原权利方所有，
+> 本项目**不含任何商业用途**，图标中的角色仅作粉丝向个人使用。
+>
 > This project is for learning, research and personal entertainment only. It simulates taps via the Android
 > Accessibility Service to play in-game virtual instruments. It **does not read or modify game memory/data,
 > nor bypass any anti-cheat mechanism**. Use at your own risk and follow your game's community rules.
+>
+> This is an **unofficial fan-made project**, not affiliated with miHoYo / HoYoverse. All rights to the game
+> characters, music and related assets belong to their respective owners. This project is **strictly
+> non-commercial**; the character in the app icon is used for personal, fan-made purposes only.
 
 ---
 
@@ -195,7 +202,7 @@ app/src/main/kotlin/com/liquidlyre/app/
 
 - 液态玻璃 AAR：[AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)（Apache-2.0）
 - 谱式规则参考：BGI / CuSimpAutoGenshinLyre 与谐律键琴社区
-- 图标角色：用户提供的原创形象
+- 图标角色：原神角色（粉丝向非商业使用，版权归原权利方所有）
 
 ---
 
