@@ -1,0 +1,29 @@
+# ========== Gradle / Android 构建产物 ==========
+.gradle/
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# ========== 签名密钥（绝对不能提交）==========
+signing/
+*.jks
+*.keystore
+keystore.properties
+
+# ========== IDE ==========
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ========== 系统 / 编辑器 ==========
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ========== 输出 APK（只放源码，不放二进制包）==========
+*.apk

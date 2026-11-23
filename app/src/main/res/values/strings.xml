@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">璃音 · LiquidLyre</string>
+    <string name="a11y_label">璃音自动弹琴服务</string>
+    <string name="a11y_desc">仅在游戏前台、你手动点播放后，用坐标手势模拟按键弹奏。随用随开，不读取任何游戏数据。</string>
+</resources>
