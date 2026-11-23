@@ -9,11 +9,20 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/varesafatcutecow/LiquidLyre/releases/latest"><img src="https://img.shields.io/badge/%E2%86%93%20%E4%B8%8B%E8%BD%BD%20APK-v1.6.5-2ea44f?style=for-the-badge" alt="Download APK"/></a>
+</p>
+
+<p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/></a>
   <img src="https://img.shields.io/badge/platform-Android%2012%2B-green.svg" alt="Platform"/>
   <img src="https://img.shields.io/badge/Kotlin-2.4.10-A97BFF.svg" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/version-1.6.5-orange.svg" alt="Version"/>
 </p>
+
+---
+
+> 📥 **下载 / Download**：点上方绿色按钮，或前往 [Releases](https://github.com/varesafatcutecow/LiquidLyre/releases/latest) 下载 `LiquidLyre-v1.6.5.apk`（Android 12+）。
+> 安装后按 [快速开始](#快速开始--quick-start) 开启无障碍服务并校准琴键即可使用。
 
 ---
 
